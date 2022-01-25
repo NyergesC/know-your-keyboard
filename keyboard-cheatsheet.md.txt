@@ -1,26 +1,26 @@
-round brackets: ()
-square brackets: []
-curly brackets: {}
-Angles: <>
-Single quote: '
-Double quote: "
-backtick: `
-Slash: /
-backslash: \
-bar: |
-Tilde: ~
-Exlamation mark: !
-question mark: ?
-at: @ 
-Hash: #
-dollar sign: $
-Percent: %
-Ampersand: &
-Asterisk: *
+round brackets: () Shift+8, Shift+9
+square brackets: [] AltGr+F, AltGr+G 
+curly brackets: {} AltGr+B, AltGr+N 
+Angles: <> AltGr+Í, AltGr+Y 
+Single quote: ' Shift+1
+Double quote: " Shift+2
+backtick: ` AltGr+7
+Slash: / Shift+6
+backslash: \ AltGr+Q
+bar: | AlrtGr+W
+Tilde: ~ AltGr+1
+Exlamation mark: ! Shift+4 
+question mark: ? Shift+, 
+at: @ AltGr+V
+Hash: # AltGr+X 
+dollar sign: $ AltGr+É
+Percent: % Shift+5 
+Ampersand: & AltGr+C 
+Asterisk: * AltGr+- 
 Dash: -
-plus: +
-equal: =
-colon: :
-semicolon: ;
+plus: + Shift+3
+equal: = Shift+7
+colon: : Shift+
+semicolon: ; AltGr+,
 dot: .
 comma: ,
